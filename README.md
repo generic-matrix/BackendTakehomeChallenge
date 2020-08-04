@@ -1,22 +1,22 @@
 # Camino Financial's Backend Take-home Challenge
 
-# how to run debug server
+## how to run debug server
 
 ```
  python3 BackendTakehomeChallenge/API/manage.py runserver 0.0.0.0:8000
 ```
 
-# How to run Test
+## How to run Test
 
 ```
 python3 BackendTakehomeChallenge/test.py
 ```
 from the corrosponding directory
 
-# The psuedocode based on SRS is given inside the API file
+## The psuedocode based on SRS is given inside the API file
 
 
-# Not added
+## Not added
 
 1. 2FA Auth and SSL security so it becomes an open API 
 2. string/payload compressor to reduct production level cost
