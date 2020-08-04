@@ -20,7 +20,7 @@ from the corrosponding directory
 
 1. 2FA Auth and SSL security so it becomes an open API 
 2. string/payload compressor to reduct production level cost
-3.Production flag and credentials JSON as environment variable or secret object
+3. Production flag and credentials JSON as environment variable or secret object
 
 ## The Docker version has been hosted on to :
 
