@@ -2,16 +2,18 @@
 
 # how to run debug server
 
-'''
+```
  python3 manage.py runserver 0.0.0.0:8000
-'''
+```
 
 # How to run Test
 
-'''
+```
 python3 test.py
-'''
+```
 from the corrosponding directory
+
+## The psuedocode based on SRS is given inside the API file
 
 # The Docker version has been hosten on to :
 
