@@ -55,4 +55,4 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 
 1. 2FA Auth and SSL security so it becomes an open API 
 2. string/payload compressor to reduct production level cost
-3. JSON cred to env variables of the docker 
+3. JSON cred to env variables to the docker 
