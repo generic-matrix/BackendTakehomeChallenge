@@ -24,7 +24,7 @@
 2. METHOD: GET status/ OUTPUT:status INPUT:CFRequestId,scope TYPE:JSON
 
     if(CFRequestId found in db with the input):
-        return status (CFApplicationData)
+        return status
     else:
         application not found
 
