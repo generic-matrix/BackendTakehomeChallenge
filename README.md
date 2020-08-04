@@ -9,7 +9,7 @@
 # How to run Test
 
 ```
-python3 test.py
+python3 BackendTakehomeChallenge/test.py
 ```
 from the corrosponding directory
 
