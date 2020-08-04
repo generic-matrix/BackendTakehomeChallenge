@@ -10,7 +10,7 @@ from dateutil.parser import parse
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
-cred = credentials.Certificate(__file__.replace("/src/API.py","/backendtakehomechallenge-firebase-adminsdk-1y8fk-99371b1a50.json"))
+cred = credentials.Certificate(__file__.replace("/src/API.py","serviceaccount.json"))
 firebase_admin.initialize_app(cred,{'databaseURL': 'https://backendtakehomechallenge.firebaseio.com'})
 import traceback
 
