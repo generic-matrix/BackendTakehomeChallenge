@@ -1,6 +1,21 @@
 # Camino Financial's Backend Take-home Challenge
 
+# how to run debug server
 
+'''
+ python3 manage.py runserver 0.0.0.0:8000
+'''
+
+# How to run Test
+
+'''
+python3 test.py
+'''
+from the corrosponding directory
+
+# The Docker version has been hosten on to :
+
+https://backendservice-5nf433gcyq-uc.a.run.app
 
 ## Your mission
 Greetings. The Master Control Program has chosen you to serve your system on the Game Grid. You have 3 hours to simulate a business lending environment. Should you become successful, you will be invited to the next level in the Game Grid.
@@ -24,9 +39,9 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 2. Be creative and deliver on-time.
 3. A good template / tutorial to use https://testdriven.io/blog/deploying-django-to-heroku-with-docker/
 
-## SRS
 
-# DEPLOYMENT REQUIREMENT
+
+## DEPLOYMENT REQUIREMENT
 1. Design a RESTful API using Django Rest Framework.
 2. Use Docker for extra credit.
 3. Write unit test suites for all your functions.
