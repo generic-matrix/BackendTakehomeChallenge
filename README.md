@@ -13,7 +13,14 @@ python3 BackendTakehomeChallenge/test.py
 ```
 from the corrosponding directory
 
-## The psuedocode based on SRS is given inside the API file
+# The psuedocode based on SRS is given inside the API file
+
+
+# Not added
+
+1. 2FA Auth and SSL security so it becomes an open API 
+2. string/payload compressor to reduct production level cost
+3.Production flag and credentials JSON as environment variable or secret object
 
 ## The Docker version has been hosted on to :
 
@@ -50,9 +57,3 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 4. Set up your code for a live demostration.
 5. Using cloud data store.
 
-
-# Not added
-
-1. 2FA Auth and SSL security so it becomes an open API 
-2. string/payload compressor to reduct production level cost
-3. JSON cred to env variables to the docker 
