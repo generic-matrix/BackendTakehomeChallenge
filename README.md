@@ -15,7 +15,7 @@ from the corrosponding directory
 
 ## The psuedocode based on SRS is given inside the API file
 
-# The Docker version has been hosten on to :
+# The Docker version has been hosted on to :
 
 https://backendservice-5nf433gcyq-uc.a.run.app
 
