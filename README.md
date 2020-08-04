@@ -3,7 +3,7 @@
 # how to run debug server
 
 ```
- python3 manage.py runserver 0.0.0.0:8000
+ python3 BackendTakehomeChallenge/API/manage.py runserver 0.0.0.0:8000
 ```
 
 # How to run Test
