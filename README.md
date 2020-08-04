@@ -33,41 +33,7 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 4. Set up your code for a live demostration.
 5. Using cloud data store.
 
-# MODEL REQUIREMENT
-1. METHOD: POST loanapp/ to get the [json](https://github.com/caminofinancial/BackendTakehomeChallenge/blob/master/sample.json).
-'''
-    function UPDATE(json):
-        for key in json:
-            if(key contains in json):
-                UPDATE THAT KEY
-            else:
-                Add that key
 
-
-    if(data found in db by CFRequestId):
-        Save to logs
-        if(date_diff<4 month):
-            NOT ALLOWED
-        else:
-            if(phone number is same):
-                NOT ALLOWED
-            else:
-                UPDATE
-    else:
-        UPDATE
-'''
-2. METHOD: GET status/ OUTPUT:status INPUT:CFRequestId,scope TYPE:JSON
-'''
-    if(CFRequestId found in db with the input):
-        return status (CFApplicationData)
-    else:
-        application not found
-
-'''
-3. Saving the data in the model in Firebase cloud data store as model
-
-
-#Not added
+# Not added
 
 1. 2FA Auth and SSL security so it becomes an open API 
-2. Model resistance to advanced form of malformed JSON
