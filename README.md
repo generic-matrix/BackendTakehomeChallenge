@@ -54,3 +54,4 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 # Not added
 
 1. 2FA Auth and SSL security so it becomes an open API 
+2. string/payload compressor to reduct production level cost
